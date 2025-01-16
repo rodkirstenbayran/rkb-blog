@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Growth on BookFinds</title>
+    <link>//localhost:1313/tags/personal-growth/</link>
+    <description>Recent content in Personal Growth on BookFinds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Rodkirsten Bayran</copyright>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/personal-growth/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Atomic Habits</title>
+      <link>//localhost:1313/books/atomic/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/atomic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Man&#39;s Search for Meaning</title>
+      <link>//localhost:1313/books/meaning/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/meaning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Power of Now</title>
+      <link>//localhost:1313/books/power/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/power/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Don&#39;t Believe Everything You Think</title>
+      <link>//localhost:1313/books/everything/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/everything/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

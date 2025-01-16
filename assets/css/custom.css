@@ -1,0 +1,130 @@
+/* General Styling */
+body * {
+    text-align: justify;
+    justify-content: center;
+}
+
+/* Featured image styling */
+.featured-image {
+    width: 80%;
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 50px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+/* General Styles */
+  
+  /* Header */
+  header h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  header p {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  /* Featured Image */
+  .featured-image img {
+    width:700px;
+    height: 400px;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .featured-image img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Article Content */
+  .article-item {
+    padding: 1.5rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .article-item:hover {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .article-item h2 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .article-item h2 a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease;
+  }
+  
+  .article-item h2 a:hover {
+    color: #fff;
+  }
+  
+  .article-item p {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  /* Card Layout */
+  .card {
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card h3 {
+    font-size: 1.25rem;
+    color: #333;
+    text-align: center;
+  }
+  
+  .card h3 a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease;
+  }
+  
+  .card h3 a:hover {
+    color: #fff;
+  }
+  
+  .card-content p {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  /* Table of Contents */
+  .toc {
+    border-left: 4px solid #0073e6;
+    padding-left: 1rem;
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .toc a {
+    text-decoration: none;
+    color: #0073e6;
+  }
+  
+  .toc a:hover {
+    color: #005bb5;
+  }
+  
+
+
+  

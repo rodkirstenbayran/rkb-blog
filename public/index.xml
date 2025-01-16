@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BookFinds</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on BookFinds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Rodkirsten Bayran</copyright>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project Hail Mary</title>
+      <link>//localhost:1313/books/project/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/project/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The House in the Cerulean Sea</title>
+      <link>//localhost:1313/books/house/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/house/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Midnight Library</title>
+      <link>//localhost:1313/books/midnight/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/midnight/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Atomic Habits</title>
+      <link>//localhost:1313/books/atomic/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/atomic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Don Quixote</title>
+      <link>//localhost:1313/books/don/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/don/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Man&#39;s Search for Meaning</title>
+      <link>//localhost:1313/books/meaning/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/meaning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Great Gatsby</title>
+      <link>//localhost:1313/books/gatsby/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/gatsby/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Power of Now</title>
+      <link>//localhost:1313/books/power/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/power/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Thinking, Fast and Slow</title>
+      <link>//localhost:1313/books/thinking/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/thinking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>To Kill a Mockingbird</title>
+      <link>//localhost:1313/books/mocking/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/mocking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Don&#39;t Believe Everything You Think</title>
+      <link>//localhost:1313/books/everything/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/everything/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>It Ends With Us</title>
+      <link>//localhost:1313/books/end/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/end/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kindle to Notion</title>
+      <link>//localhost:1313/portfolio/universityhub/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/portfolio/universityhub/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

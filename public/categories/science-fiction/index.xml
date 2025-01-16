@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science Fiction on BookFinds</title>
+    <link>//localhost:1313/categories/science-fiction/</link>
+    <description>Recent content in Science Fiction on BookFinds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Rodkirsten Bayran</copyright>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/science-fiction/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project Hail Mary</title>
+      <link>//localhost:1313/books/project/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/books/project/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

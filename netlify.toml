@@ -1,0 +1,40 @@
+[build]
+  command = "hugo mod get -u && hugo --gc --minify -b $URL"
+  publish = "public"
+  functions = "functions"
+
+[build.environment]
+  NODE_VERSION = "18.16.0"
+  NPM_VERSION = "8.19.2"
+  HUGO_VERSION = "0.139.0"
+  NODE_ENV = "production"
+  TZ = "UTC"
+
+[context.production]
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+
+[context.deploy-preview]
+  command = "npm run build -- -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.139.0"
+
+[context.branch-deploy]
+  command = "npm run build -- -b $DEPLOY_PRIME_URL"
+
+[context.next]
+  command = "npm run build"
+
+[context.next.environment]
+  HUGO_ENV = "next"
+
+[dev]
+  framework = "#custom"
+  command = "npm run start"
+  targetPort = 1313
+  port = 8888
+  publish = "public"
+  autoLaunch = false
